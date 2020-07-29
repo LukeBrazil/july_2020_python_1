@@ -14,5 +14,7 @@ def dayNumbers():
         print("Friday")
     elif day == 6:
         print("Saturday")
+    else:
+        print("Not a day!")
     
 dayNumbers()
